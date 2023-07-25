@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005144518752",
+    "project_id": "airplan-base2023",
+    "storage_bucket": "airplan-base2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005144518752:android:c4760005a90b25654f1305",
+        "android_client_info": {
+          "package_name": "com.pixels26.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005144518752-b2rjb7k257vql3of0db9kr68ol0qp1i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDv6y1Bd41iCcbr6sJsLXNgvjIjlzTf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005144518752-b2rjb7k257vql3of0db9kr68ol0qp1i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
